@@ -51,16 +51,6 @@ An interactive website showcasing Indian states with dynamic weather and transpo
 
 ---
 
-## 📸 Screenshots
-
-| Home | Projects |
-|------|----------|
-| ![Home Screenshot](./images/header.jpg) | ![Project Screenshot](./images/project-1.png) |
-
-> 📌 *Make sure the screenshots exist in the `/images` folder.*
-
----
-
 ## 📂 Folder Structure
 
 ```
